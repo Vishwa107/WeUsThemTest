@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(201, 234, 246);
+    text-align: center;
+}
+
+#pg-banner {
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    height: 10vh;
+    border-bottom: 5px solid rgb(74, 122, 255);
+}
+
+/* the links on the nav bar - home covid-19 info and contact us */
+#primary-nav a {
+    margin: 20px;
+    color: white;
+}
+
+form {
+    margin: 0 auto;
+    width: 40vw;
+}
+
+img {
+    height: 75px;
+}
+
+#imageProfile {
+    height: 150px;
+    margin: 10px;
+}
+
+.pg-footer {
+    /* margin-top: 10px; */
+    border-top: 5px solid rgb(74, 122, 255);
+    height: 10vh;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+
+#formform {
+    margin: 20px 0px 20px 0px;
+}
+
+#content {
+    margin-bottom: 11vh;
+}
